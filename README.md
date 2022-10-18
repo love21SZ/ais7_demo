@@ -1,8 +1,10 @@
 # ais7_demo
 * 멋쟁이 사자처럼 AIS7 실습
 
-<img src = "https://www.asan.go.kr/tour/upload_data/m_tour/e6373f_tour_img_01.jpg">
+<img src = "https://www.asan.go.kr/tour/upload_data/m_tour/e6373f_tour_img_01.jpg" width="300" height="200">
+*이미지 출저 [https://www.asan.go.kr/tour/develop/m_tour/?m_mode=view&pds_no=2019111514554808010]
 
+     
 # 제목 1
 * 내용 1
 * 내용 2
