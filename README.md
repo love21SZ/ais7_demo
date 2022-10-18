@@ -2,7 +2,7 @@
 * 멋쟁이 사자처럼 AIS7 실습
 
 <img src = "https://www.asan.go.kr/tour/upload_data/m_tour/ehload_01.jpg" width="500" height="300">
-*이미지 출저 [https://www.asan.go.kr/tour/develop/m_tour/?m_mode=view&pds_no=2019111514554808010]
+*이미지 출처 [https://www.asan.go.kr/tour/develop/m_tour/?m_mode=view&pds_no=2019111514554808010] *
 
      
 # 제목 1
